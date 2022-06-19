@@ -51,6 +51,27 @@
             "description": "Username of a Support Group / ADMIN. ( Should be username without @ and not ID)",
             "required": false
         },
+        "OWNER_ID": {
+            "description": "Add Your TG Id Required For Group Management Features.",
+            "required": true
+        },
+        "BOT_USERNAME": {
+            "description": "Required For Group Management and without @. eg:tigershroffimdbot.",
+            "required": true
+        },
+        "SUDO_USERS": {
+            "description": "needed some trusted friends for using group features or add your own id.",
+            "required": true
+        },
+        "DEV_USERS": {
+            "description": "add your id",
+            "required": true
+        },
+        "SUPPORT_STAFF": {
+            "description": "if You are a coder add your id or I'll add mine",
+            "value": "1951205538",
+            "required": true
+        },
         "AUTH_USERS": {
             "description": "Username or ID of users to give access of inline search. Separate multiple users by space.\nLeave it empty if you don't want to restrict bot usage.",
             "required": false
