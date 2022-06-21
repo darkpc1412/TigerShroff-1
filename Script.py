@@ -135,7 +135,7 @@ Some URLs is Shortner
 <b>Example:</b>
 <code>/short https://t.me/josprojects</code>
 <b>NOTE:</b>
-• IMDb should have admin privillage.
+• 𝕸𝖆𝖓𝖏𝖚 𝖂𝖆𝖗𝖗𝖎𝖊𝖗 should have admin privillage.
 • These commands works on both pm and group.
 • These commands can be used by any group member."""
 
@@ -283,19 +283,19 @@ a bot to create a link to share text in the telegram.
 <b>Commands and Usage:</b>
 • /share (text or reply to message)
 <b>NOTE:</b>
-• IMDb should have admin privillage.
+• 𝕸𝖆𝖓𝖏𝖚 𝖂𝖆𝖗𝖗𝖎𝖊𝖗 should have admin privillage.
 • These commands works on both pm and group.
 • These commands can be used by any group member."""
     SOURCE_TXT = """<b>Source:</b>
 This bot is a Close source project.But my source code would be here
-Source: <a href='https://Github.com/200920082007/TigerShroff'>Source - Click here 👈</a>"""
+Source: <a href='https://t.me/mnxmovies124'>Source - Click here 👈</a>"""
     
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
-- Filter is the feature were users can set automated replies for a particular keyword and ᗩᒍᗩ᙭  will respond whenever a keyword is found the message
+- Filter is the feature were users can set automated replies for a particular keyword and 𝕸𝖆𝖓𝖏𝖚 𝖂𝖆𝖗𝖗𝖎𝖊𝖗  will respond whenever a keyword is found the message
 
 <b>NOTE:</b>
-1. ᗩᒍᗩ᙭ should have admin privillage.
+1. 𝕸𝖆𝖓𝖏𝖚 𝖂𝖆𝖗𝖗𝖎𝖊𝖗 should have admin privillage.
 2. only admins can add filters in a chat.
 3. alert buttons have a limit of 64 characters.
 
@@ -315,13 +315,13 @@ Song Download Module, For Those Who Love Music
 - Can Be Used By Everyone
 - Works in bot pm
 
-Made By <a href=https://t.me/+veUIdIW2CQ5mOGU5>𝐌𝐖 𝐔𝐩𝐝𝐚𝐭𝐞𝐬</a>"""
+Made By <a href=https://t.me/mnxmovies124>𝐌𝐎𝐕𝐈𝐄 𝐂𝐋𝐔𝐁 📺🎥</a>"""
     SHARE_TXT = """Help: <b>Sharing Text Maker</b>
 a bot to create a link to share text in the telegram.
 <b>Commands and Usage:</b>
 • /share (text or reply to message)
 <b>NOTE:</b>
-• IMDb should have admin privillage.
+• 𝕸𝖆𝖓𝖏𝖚 𝖂𝖆𝖗𝖗𝖎𝖊𝖗 should have admin privillage.
 • These commands works on both pm and group.
 • These commands can be used by any group member."""
    
@@ -356,7 +356,7 @@ Translate text to speech
 
 <b>NOTE:</b>
 
-• IMDb should have admin privillage.
+• 𝕸𝖆𝖓𝖏𝖚 𝖂𝖆𝖗𝖗𝖎𝖊𝖗 should have admin privillage.
 • These commands works on both pm and group.
 • IMDb can translate texts to 200+ languages."""
     PINGS_TXT ="""<b>🌟 Ping:</b>
@@ -409,11 +409,11 @@ Delete A Lot Of Messages From Groups!
 ◉ /purge :- Delete All Messages From The Replied To Message, To The Current Message"""
     BUTTON_TXT = """Help: <b>Buttons</b>
 
--ᗩᒍᗩ᙭  Supports both url and alert inline buttons.
+-𝕸𝖆𝖓𝖏𝖚 𝖂𝖆𝖗𝖗𝖎𝖊𝖗  Supports both url and alert inline buttons.
 
 <b>NOTE:</b>
 1. Telegram will not allows you to send buttons without any content, so content is mandatory.
-2. ᗩᒍᗩ᙭ supports buttons with any telegram media type.
+2. 𝕸𝖆𝖓𝖏𝖚 𝖂𝖆𝖗𝖗𝖎𝖊𝖗 supports buttons with any telegram media type.
 3. Buttons should be properly parsed as markdown format
 
 <b>URL buttons:</b>
@@ -543,7 +543,7 @@ Added By - {}
 
 ➪ 𝖩𝗎𝗌𝗍 𝗌𝖾𝗇𝖽 𝗆𝖾 𝖺 𝗂𝗆𝖺𝗀𝖾 𝗍𝗈 𝖾𝖽𝗂𝗍 ✨
 
-𝖬𝖺𝖽𝖾 𝖻𝗒 <a href=https://t.me/+veUIdIW2CQ5mOGU5>𝐌𝐖 𝐔𝐩𝐝𝐚𝐭𝐞𝐬</a>"""
+𝖬𝖺𝖽𝖾 𝖻𝗒 <a href=https://t.me/mnxmovies124>𝐌𝐎𝐕𝐈𝐄 𝐂𝐋𝐔𝐁 📺🎥</a>"""
 
     STICKER_TXT = """𝚈𝙾𝚄 𝙲𝙰𝙽 𝚄𝚂𝙴 𝚃𝙷𝙸𝚂 𝙼𝙾𝙳𝚄𝙻𝙴 𝚃𝙾 𝙵𝙸𝙽𝙳 𝙰𝙽𝚈 𝚂𝚃𝙸𝙲𝙺𝙴𝚁𝚂 𝙸𝙳.
 • 𝐔𝐒𝐀𝐆𝐄
