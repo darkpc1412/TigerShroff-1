@@ -1,8 +1,8 @@
 {
-    "name": "TigerShroff",
+    "name": "𝕸𝖆𝖓𝖏𝖚 𝖂𝖆𝖗𝖗𝖎𝖊𝖗",
     "description": "This Bot Will Help You To Store Files In Cloud Storage. You Can Add Files To The Bot By Forward the last file from a public channel to your bot and Press Yes Button.. If The Files Channl Is Private Make the bot admin on the channel and forward the last file to bot. Then Add the bot to you group and send the movie name The Bot Will Give the file in Bot PM..✮✮",
     "stack": "heroku-22",
-    "logo": "https://telegra.ph/file/595e6b626b2fee08397d6.jpg",
+    "logo": "https://telegra.ph/file/8a4dad77d991fc02795d8.jpg",
     "keywords": [
       "telegram",
       "auto-filter",
@@ -16,8 +16,8 @@
       "index",
       "inline"
     ],
-    "website": "https://t.me/abhisheksvlog",
-    "repository": "https://github.com/200920082007/TigerShroff",
+    "website": "https://t.me/Justinvrgs",
+    "repository": "https://github.com/darkpc1412/TigerShroff-1",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
