@@ -155,8 +155,8 @@ async def next_page(bot, query):
             )
     btn.insert(0,
             [
-                InlineKeyboardButton("⭕️ ɢʀᴏᴜᴘ ⭕️", url="https://t.me/cinemaenglish123"),
-                InlineKeyboardButton("⭕️ ᴅᴇᴠ ⭕️", url="https://t.me/abhisheksvlog")
+                InlineKeyboardButton("⭕️ ɢʀᴏᴜᴘ ⭕️", url="https://t.me/mnxmovies124"),
+                InlineKeyboardButton("⭕️ ᴅᴇᴠ ⭕️", url="https://t.me/Justinvrgs")
             ])
 
     btn.insert(0, [
@@ -700,10 +700,10 @@ async def cb_handler(client: Client, query: CallbackQuery):
             ],[
             InlineKeyboardButton('🔍sᴇᴀʀᴄʜ ʜᴇʀᴇ ᴍᴏᴠɪᴇ🔎', switch_inline_query_current_chat='')
             ],[
-            InlineKeyboardButton('ᴅᴇᴠᴇʟᴏᴘᴇʀ', url='https://t.me/ABHISHEKSVLOG'),
-            InlineKeyboardButton('ɢʀᴏᴜᴘ', url='https://t.me/MovieHubOfficialGroup')
+            InlineKeyboardButton('ᴅᴇᴠᴇʟᴏᴘᴇʀ', url='https://t.me/Justinvrgs'),
+            InlineKeyboardButton('ɢʀᴏᴜᴘ', url='https://t.me/mnxmovies124')
             ],[
-            InlineKeyboardButton('ᴜᴘᴅᴀᴛᴇs ᴄʜᴀɴɴᴇʟ', url='https://t.me/Justaupdatechannel'),
+            InlineKeyboardButton('ᴜᴘᴅᴀᴛᴇs ᴄʜᴀɴɴᴇʟ', url='https://t.me/+RjWVT5hMrq1kYjE1'),
             ],[
             InlineKeyboardButton('✗ ᴄʟᴏsᴇ ᴛʜᴇ ᴍᴇɴᴜ ✗', callback_data='close_data')
         ]]
@@ -899,7 +899,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             ],[
             InlineKeyboardButton('🔍sᴇᴀʀᴄʜ ᴍᴏᴠɪᴇ🔎', switch_inline_query_current_chat='')
             ],[
-            InlineKeyboardButton('🍿ᴍᴏᴠɪᴇ ʀᴇǫᴜᴇsᴛ ɢʀᴏᴜᴘ🍿', url='https://t.me/MovieHubOfficialGroup')
+            InlineKeyboardButton('🍿ᴍᴏᴠɪᴇ ʀᴇǫᴜᴇsᴛ ɢʀᴏᴜᴘ🍿', url='https://t.me/mnxmovies124')
             ],[
             InlineKeyboardButton('ʜᴇʟᴘ & ᴄᴏᴍᴍᴀɴᴅs', callback_data='help')
             ],[
@@ -2168,14 +2168,14 @@ async def auto_filter(client, msg, spoll=False):
              InlineKeyboardButton(text="ɴᴇxᴛ 🛡️", callback_data=f"next_{req}_{key}_{offset}")]
         )
         btn.insert(0,
-            [InlineKeyboardButton(text="🎀 ᴊᴏɪɴ ᴏᴜʀ ᴄᴀɴɴᴇʟ 🎀",url="https://t.me/Justaupdatechannel")]
+            [InlineKeyboardButton(text="🎀 ᴊᴏɪɴ ᴏᴜʀ ᴄᴀɴɴᴇʟ 🎀",url="https://t.me/+RjWVT5hMrq1kYjE1")]
         )
     else:
         btn.append(
             [InlineKeyboardButton(text="💠 1/1", callback_data="pages")]
         )
         btn.insert(0,
-            [InlineKeyboardButton(text="🎀 ᴊᴏɪɴ ᴏᴜʀ ᴄʜᴀɴɴᴇʟ 🎀",url="https://t.me/JUSTAUPDATECHANNEL")]
+            [InlineKeyboardButton(text="🎀 ᴊᴏɪɴ ᴏᴜʀ ᴄʜᴀɴɴᴇʟ 🎀",url="https://t.me/+RjWVT5hMrq1kYjE1")]
         )
     imdb = await get_poster(search, file=(files[0]).file_name) if settings["imdb"] else None
     TEMPLATE = settings['template']
