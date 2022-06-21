@@ -27,7 +27,7 @@ GPLINKS_API = os.environ.get("GPLINKS_API", "008ccaedd6061ad1948838f410947603de9
 
 reply_markup = InlineKeyboardMarkup(
         [[
-        InlineKeyboardButton(text='join Movie Group', url='https://telegram.me/cinemaenglish123')
+        InlineKeyboardButton(text='join Movie Group', url='https://t.me/mnxmovies124')
         ]]
     )
 
@@ -190,7 +190,7 @@ async def short(link):
     
     # Send the text
     try:
-        shorten_urls += "\n\nmade by @josprojects | @jospsupport 🔥"
+        shorten_urls += "\n\nmade by 𝐌𝐎𝐕𝐈𝐄 𝐂𝐋𝐔𝐁 📺🎥 | 𝐌𝐎𝐕𝐈𝐄 𝐂𝐋𝐔𝐁 📺🎥 🔥"
         return shorten_urls
     except Exception as error:
         return error
