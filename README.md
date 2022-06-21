@@ -1,4 +1,4 @@
-# 𝐓𝐈𝐆𝐄𝐑 𝐒𝐇𝐑𝐎𝐅𝐅
+# 𝕸𝖆𝖓𝖏𝖚 𝖂𝖆𝖗𝖗𝖎𝖊𝖗
 Very Advance Auto Filter bot
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=welcome+To+TigerShroff!;created+by+༒Crazyboss卂乃卄丨丂卄乇Ҝ༒;A+simple+autofilter+Bot!;Auto+filter+with+double+button!;start+message+with+pic!;and+all+futures!)
 </p>
@@ -7,7 +7,7 @@ Very Advance Auto Filter bot
 
 
 
-[![Deploy](https://telegra.ph/file/595e6b626b2fee08397d6.jpg)](https://heroku.com/deploy?template=https://telegram.dog/XTZ_HerokuBot?start=MjAwOTIwMDgyMDA3L1RpZ2VyU2hyb2ZmIG1haW4)
+[![Deploy](https://telegra.ph/file/8a4dad77d991fc02795d8.jpg)](https://heroku.com/deploy?template=https://telegram.dog/XTZ_HerokuBot?start=MjAwOTIwMDgyMDA3L1RpZ2VyU2hyb2ZmIG1haW4)
 
 ## Features
 
@@ -57,7 +57,7 @@ You can deploy this bot anywhere.
 <details><summary>Deploy To Heroku</summary>
 <p>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/200920082007/TigerShroff">
+<a href="https://heroku.com/deploy?template=https://github.com/darkpc1412/TigerShroff-1">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
@@ -107,6 +107,6 @@ python3 bot.py
 Thanks To DivideProjects For Kanging The Repo [Alita_Robot](https://github.com/DivideProjects/Alita_robot)
 
 
-𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁 ›› [Abhishek](https://t.me/abhisheksvlog)                                                                                                                                        
-𝙶𝚁𝙾𝚄𝙿 ›› [Movie Hub Official](https://t.me/MovieHubOfficialGroup)                                             
-Collabareter ›› [Joel Kurian Biju](https://t.me/CreatorBeatz)
+𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁 ›› [𝕵𝖚𝖘𝖙𝖎𝖓](https://t.me/Justinvrgs)                                                                                                                                        
+𝙶𝚁𝙾𝚄𝙿 ›› [𝐌𝐎𝐕𝐈𝐄 𝐂𝐋𝐔𝐁 📺🎥](https://t.me/mnxmovies124)                                             
+Collabareter ›› [¢ℓυв нσυѕє](https://t.me/+RjWVT5hMrq1kYjE1)
